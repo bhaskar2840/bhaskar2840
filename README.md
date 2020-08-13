@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning ...MACHINE LEARNING
 - 👯 I’m looking to collaborate on ...DATA SCIENCE PROJECTS
 
-- 📫 How to reach me: ... bhaskar2000jha@gmail.com
--  😎                 https://www.linkedin.com/in/bhaskar-jha-347187140/
+## Want to Connect📫 
+- bhaskar2000jha@gmail.com
+- https://www.linkedin.com/in/bhaskar-jha-347187140/
 
 ### Languages and Frameworks: 
 <p align="left">
