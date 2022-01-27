@@ -29,4 +29,4 @@
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/></code>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=bhaskar2840&theme=red-green&count_private=true&show_icons=true&include_all_commits=true">
+<--img src = "https://github-readme-stats.vercel.app/api?username=bhaskar2840&theme=red-green&count_private=true&show_icons=true&include_all_commits=true"!-->
