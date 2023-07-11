@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on ...WEB 3.0
-- 🌱 I’m currently learning ...BLOCKCHAIN
-- 👯 I’m looking to collaborate on ...WEB DEVELOPMENT AND WEB 3.0
+- 🔭 I’m currently working on ...Next.js
+- 🌱 I’m currently learning ... A.I.
+- 👯 I’m looking to collaborate on ...WEB DEVELOPMENT AND A.I.
 
 ## Want to Connect📫 
 - <code><a href="https://www.linkedin.com/in/bhaskar-jha-347187140/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
